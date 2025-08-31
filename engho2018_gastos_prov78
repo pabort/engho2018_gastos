@@ -1,4 +1,4 @@
-id,provincia,propauto,cantmiem,gastot,gastotpc,gc_01,gc_02,gc_03,gc_04,gc_05,gc_06,gc_07,gc_08,gc_09,gc_10,gc_11,gc_12,ingtoth,ingpch,tn_restaurant,tn_internet,cat_gastos_internet,cat_gastos_restaurant,cat_gastos_alimentos
+id,provincia,propauto,cantmiem,gastot,gastotpc,gc_01,gc_02,gc_03,gc_04,gc_05,gc_06,gc_07,gc_08,gc_09,gc_10,gc_11,gc_12,ingtoth,ingpch,tn_restaurant,tn_internet,cat_gastos_internet,cat_gastos_restaurant,cat_gc_01
 484968741,78,1,2,17235.807,8617.9035,2285.807,0,0,2685,134,2300,0,2099,5532,2200,0,0,15770,7885,0,0,0,0,0
 29982485,78,2,5,18114.36,3622.872,2736.56,0,6785,968,0,0,192,600,4424,0,1558.8,850,41366.6666666667,8273.33333333333,0,0,0,0,0
 935642838,78,1,1,1818.403,1818.403,1056.953,281.45,250,0,0,0,0,30,0,0,0,200,2216.66666666667,2216.66666666667,0,0,0,0,1
